@@ -1,0 +1,8 @@
+>>Data Entry App\Documentation\Read Me First!<<
+>>>Before start using the "Data Entry App.exe",follow the steps down below.<<<
+Step.1- Install the latest "Python IDLE" to your PC.
+Step.2- Open "DataEntry_create_table.exe"
+Step.3- Click on "Create Table"
+>>>After the table "data_entry.db" created in you DataEntryApp directory, it will close down by itself.<<<
+Step.4-Click on "Data Entry App.exe"
+>>>Now you can start using your app.
